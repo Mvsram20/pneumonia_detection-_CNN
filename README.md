@@ -1,1 +1,1 @@
-# pneumonia_detection-_CNN
+# pneumonia_detection_CNN
